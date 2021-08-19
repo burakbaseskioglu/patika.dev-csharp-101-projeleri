@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/bin/Debug/net5.0/KarakterDegistirme.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/bin/Debug/net5.0/KarakterDegistirme.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/bin/Debug/net5.0/KarakterDegistirme.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/bin/Debug/net5.0/KarakterDegistirme.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/bin/Debug/net5.0/ref/KarakterDegistirme.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/bin/Debug/net5.0/KarakterDegistirme.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/obj/Debug/net5.0/KarakterDegistirme.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/obj/Debug/net5.0/KarakterDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/obj/Debug/net5.0/KarakterDegistirme.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/obj/Debug/net5.0/KarakterDegistirme.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/obj/Debug/net5.0/KarakterDegistirme.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/obj/Debug/net5.0/KarakterDegistirme.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/obj/Debug/net5.0/ref/KarakterDegistirme.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/obj/Debug/net5.0/KarakterDegistirme.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/KarakterDegistirme/obj/Debug/net5.0/KarakterDegistirme.genruntimeconfig.cache

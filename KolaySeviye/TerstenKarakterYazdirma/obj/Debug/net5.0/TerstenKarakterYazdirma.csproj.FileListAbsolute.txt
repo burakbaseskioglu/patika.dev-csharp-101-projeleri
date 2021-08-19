@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/bin/Debug/net5.0/TerstenKarakterYazdirma.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/bin/Debug/net5.0/TerstenKarakterYazdirma.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/bin/Debug/net5.0/TerstenKarakterYazdirma.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/bin/Debug/net5.0/TerstenKarakterYazdirma.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/bin/Debug/net5.0/ref/TerstenKarakterYazdirma.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/bin/Debug/net5.0/TerstenKarakterYazdirma.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/obj/Debug/net5.0/TerstenKarakterYazdirma.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/obj/Debug/net5.0/TerstenKarakterYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/obj/Debug/net5.0/TerstenKarakterYazdirma.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/obj/Debug/net5.0/TerstenKarakterYazdirma.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/obj/Debug/net5.0/TerstenKarakterYazdirma.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/obj/Debug/net5.0/TerstenKarakterYazdirma.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/obj/Debug/net5.0/ref/TerstenKarakterYazdirma.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/obj/Debug/net5.0/TerstenKarakterYazdirma.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/TerstenKarakterYazdirma/obj/Debug/net5.0/TerstenKarakterYazdirma.genruntimeconfig.cache

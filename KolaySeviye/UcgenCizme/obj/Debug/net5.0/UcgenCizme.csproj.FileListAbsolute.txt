@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/bin/Debug/net5.0/UcgenCizme.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/bin/Debug/net5.0/UcgenCizme.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/bin/Debug/net5.0/UcgenCizme.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/bin/Debug/net5.0/UcgenCizme.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/bin/Debug/net5.0/ref/UcgenCizme.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/bin/Debug/net5.0/UcgenCizme.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/obj/Debug/net5.0/UcgenCizme.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/obj/Debug/net5.0/UcgenCizme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/obj/Debug/net5.0/UcgenCizme.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/obj/Debug/net5.0/UcgenCizme.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/obj/Debug/net5.0/UcgenCizme.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/obj/Debug/net5.0/UcgenCizme.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/obj/Debug/net5.0/ref/UcgenCizme.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/obj/Debug/net5.0/UcgenCizme.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/UcgenCizme/obj/Debug/net5.0/UcgenCizme.genruntimeconfig.cache

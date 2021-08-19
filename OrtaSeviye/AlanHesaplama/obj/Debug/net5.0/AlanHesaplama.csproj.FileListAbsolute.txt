@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/bin/Debug/net5.0/AlanHesaplama.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/bin/Debug/net5.0/AlanHesaplama.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/bin/Debug/net5.0/AlanHesaplama.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/bin/Debug/net5.0/AlanHesaplama.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/bin/Debug/net5.0/ref/AlanHesaplama.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/bin/Debug/net5.0/AlanHesaplama.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/obj/Debug/net5.0/AlanHesaplama.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/obj/Debug/net5.0/AlanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/obj/Debug/net5.0/AlanHesaplama.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/obj/Debug/net5.0/AlanHesaplama.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/obj/Debug/net5.0/AlanHesaplama.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/obj/Debug/net5.0/AlanHesaplama.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/obj/Debug/net5.0/ref/AlanHesaplama.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/obj/Debug/net5.0/AlanHesaplama.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/AlanHesaplama/obj/Debug/net5.0/AlanHesaplama.genruntimeconfig.cache

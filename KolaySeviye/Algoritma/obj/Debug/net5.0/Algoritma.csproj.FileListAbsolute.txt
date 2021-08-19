@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/bin/Debug/net5.0/Algoritma.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/bin/Debug/net5.0/Algoritma.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/bin/Debug/net5.0/Algoritma.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/bin/Debug/net5.0/Algoritma.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/bin/Debug/net5.0/ref/Algoritma.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/bin/Debug/net5.0/Algoritma.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/obj/Debug/net5.0/Algoritma.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/obj/Debug/net5.0/Algoritma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/obj/Debug/net5.0/Algoritma.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/obj/Debug/net5.0/Algoritma.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/obj/Debug/net5.0/Algoritma.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/obj/Debug/net5.0/Algoritma.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/obj/Debug/net5.0/ref/Algoritma.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/obj/Debug/net5.0/Algoritma.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/Algoritma/obj/Debug/net5.0/Algoritma.genruntimeconfig.cache

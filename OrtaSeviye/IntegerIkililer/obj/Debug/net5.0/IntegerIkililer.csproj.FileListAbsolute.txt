@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/bin/Debug/net5.0/IntegerIkililer.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/bin/Debug/net5.0/IntegerIkililer.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/bin/Debug/net5.0/IntegerIkililer.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/bin/Debug/net5.0/IntegerIkililer.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/bin/Debug/net5.0/ref/IntegerIkililer.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/bin/Debug/net5.0/IntegerIkililer.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/obj/Debug/net5.0/IntegerIkililer.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/obj/Debug/net5.0/IntegerIkililer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/obj/Debug/net5.0/IntegerIkililer.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/obj/Debug/net5.0/IntegerIkililer.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/obj/Debug/net5.0/IntegerIkililer.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/obj/Debug/net5.0/IntegerIkililer.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/obj/Debug/net5.0/ref/IntegerIkililer.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/obj/Debug/net5.0/IntegerIkililer.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/IntegerIkililer/obj/Debug/net5.0/IntegerIkililer.genruntimeconfig.cache

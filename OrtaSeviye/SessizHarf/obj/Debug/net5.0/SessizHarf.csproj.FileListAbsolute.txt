@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/bin/Debug/net5.0/SessizHarf.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/bin/Debug/net5.0/SessizHarf.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/bin/Debug/net5.0/SessizHarf.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/bin/Debug/net5.0/SessizHarf.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/bin/Debug/net5.0/ref/SessizHarf.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/bin/Debug/net5.0/SessizHarf.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/obj/Debug/net5.0/SessizHarf.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/obj/Debug/net5.0/SessizHarf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/obj/Debug/net5.0/SessizHarf.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/obj/Debug/net5.0/SessizHarf.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/obj/Debug/net5.0/SessizHarf.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/obj/Debug/net5.0/SessizHarf.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/obj/Debug/net5.0/ref/SessizHarf.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/obj/Debug/net5.0/SessizHarf.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/SessizHarf/obj/Debug/net5.0/SessizHarf.genruntimeconfig.cache

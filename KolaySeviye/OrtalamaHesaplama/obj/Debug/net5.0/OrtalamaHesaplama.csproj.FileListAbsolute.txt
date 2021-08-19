@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/bin/Debug/net5.0/OrtalamaHesaplama.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/bin/Debug/net5.0/OrtalamaHesaplama.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/bin/Debug/net5.0/OrtalamaHesaplama.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/bin/Debug/net5.0/OrtalamaHesaplama.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/bin/Debug/net5.0/ref/OrtalamaHesaplama.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/bin/Debug/net5.0/OrtalamaHesaplama.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/obj/Debug/net5.0/OrtalamaHesaplama.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/obj/Debug/net5.0/OrtalamaHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/obj/Debug/net5.0/OrtalamaHesaplama.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/obj/Debug/net5.0/OrtalamaHesaplama.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/obj/Debug/net5.0/OrtalamaHesaplama.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/obj/Debug/net5.0/OrtalamaHesaplama.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/obj/Debug/net5.0/ref/OrtalamaHesaplama.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/obj/Debug/net5.0/OrtalamaHesaplama.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/KolaySeviye/OrtalamaHesaplama/obj/Debug/net5.0/OrtalamaHesaplama.genruntimeconfig.cache

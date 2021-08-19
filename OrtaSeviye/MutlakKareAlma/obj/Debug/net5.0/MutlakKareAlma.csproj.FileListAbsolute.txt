@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/bin/Debug/net5.0/MutlakKareAlma.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/bin/Debug/net5.0/MutlakKareAlma.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/bin/Debug/net5.0/MutlakKareAlma.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/bin/Debug/net5.0/MutlakKareAlma.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/bin/Debug/net5.0/ref/MutlakKareAlma.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/bin/Debug/net5.0/MutlakKareAlma.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/obj/Debug/net5.0/MutlakKareAlma.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/obj/Debug/net5.0/MutlakKareAlma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/obj/Debug/net5.0/MutlakKareAlma.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/obj/Debug/net5.0/MutlakKareAlma.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/obj/Debug/net5.0/MutlakKareAlma.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/obj/Debug/net5.0/MutlakKareAlma.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/obj/Debug/net5.0/ref/MutlakKareAlma.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/obj/Debug/net5.0/MutlakKareAlma.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/OrtaSeviye/MutlakKareAlma/obj/Debug/net5.0/MutlakKareAlma.genruntimeconfig.cache
