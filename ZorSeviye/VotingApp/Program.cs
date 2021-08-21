@@ -7,19 +7,13 @@ namespace VotingApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Lütfen oylamak istediğiniz kategoriyi seçiniz.");
-            var categoryList = CategoryDataSource.CategoryList;
-            for (int i = 0; i < categoryList.Count; i++)
-            {
-                Console.WriteLine($"{i + 1} - {categoryList[i].Name}");
-            }
-    
-            int choice2 = 0;
+            int choice = 0;
             do
             {
-                Console.Write("Seçiminiz:");
-                choice2 = int.Parse(Console.ReadLine());
-                switch (choice2)
+                CategoryList();
+                Console.Write("Kategori seçiminiz:");
+                choice = int.Parse(Console.ReadLine());
+                switch (choice)
                 {
                     case 1:
                         CategoryVote("Film");
@@ -34,10 +28,21 @@ namespace VotingApp
                         CategoryVote("Müzik");
                         break;
                 }
-            } while (choice2 >= 1 && choice2 < 5);
+            } while (choice >= 1 && choice < 5);
 
-            CategoryList();
+            CategoryListNumberOfVotes();
             CalcVote();
+        }
+
+        static void CategoryList()
+        {
+            Console.WriteLine("Lütfen oy vermek istediğiniz kategoriyi seçiniz.");
+            var categoryList = CategoryDataSource.CategoryList;
+            for (int i = 0; i < categoryList.Count; i++)
+            {
+                Console.WriteLine($"{i + 1} - {categoryList[i].Name}");
+            }
+            Console.WriteLine("5 - Çıkış");
         }
 
         static bool CheckUserControl()
@@ -46,12 +51,16 @@ namespace VotingApp
             string userName = Console.ReadLine();
 
             var user = UserDataSource.UserList.Find(x => x.UserName == userName);
-            if (user == null)
+            if (user != null)
+            {
+                return true;
+            }
+            else
             {
                 AddUser();
             }
 
-            return true;
+            return false;
         }
 
         static void CategoryVote(string categoryName)
@@ -81,13 +90,17 @@ namespace VotingApp
                 string fullName = Console.ReadLine();
                 UserDataSource.UserList.Add(new User(userName, fullName));
             }
+            else if (choice == 2)
+            {
+                
+            }
         }
 
-        static void CategoryList()
+        static void CategoryListNumberOfVotes()
         {
             foreach (var item in CategoryDataSource.CategoryList)
             {
-                Console.WriteLine($"{item.Name} kategorisi oy sayısı: {item.Vote}");
+                Console.WriteLine($"{item.Name} kategorisi toplam oy sayısı: {item.Vote}");
             }
         }
 
@@ -108,7 +121,7 @@ namespace VotingApp
             category4Sum = (category4Vote / (category1Vote + category2Vote + category3Vote + category4Vote)) * 100;
 
             Console.WriteLine($"Film Kategorisi %{Math.Round(category1Sum, 2)} oy");
-            Console.WriteLine($"Müzik KAtegorisi %{Math.Round(category2Sum, 2)} oy");
+            Console.WriteLine($"Müzik Kategorisi %{Math.Round(category2Sum, 2)} oy");
             Console.WriteLine($"Tech Stack Kategorisi %{Math.Round(category3Sum, 2)} oy");
             Console.WriteLine($"Spor Kategorisi {Math.Round(category4Sum, 2)} oy");
         }

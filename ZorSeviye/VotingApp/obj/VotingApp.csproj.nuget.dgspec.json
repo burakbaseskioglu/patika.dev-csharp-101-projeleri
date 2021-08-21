@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/ZorSeviye/VotingApp/VotingApp.csproj": {}
+    "/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/VotingApp/VotingApp.csproj": {}
   },
   "projects": {
-    "/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/ZorSeviye/VotingApp/VotingApp.csproj": {
+    "/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/VotingApp/VotingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/ZorSeviye/VotingApp/VotingApp.csproj",
+        "projectUniqueName": "/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/VotingApp/VotingApp.csproj",
         "projectName": "VotingApp",
-        "projectPath": "/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/ZorSeviye/VotingApp/VotingApp.csproj",
+        "projectPath": "/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/VotingApp/VotingApp.csproj",
         "packagesPath": "/Users/burakbaseskioglu/.nuget/packages/",
-        "outputPath": "/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/ZorSeviye/VotingApp/obj/",
+        "outputPath": "/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/VotingApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/burakbaseskioglu/.nuget/NuGet/NuGet.Config"
