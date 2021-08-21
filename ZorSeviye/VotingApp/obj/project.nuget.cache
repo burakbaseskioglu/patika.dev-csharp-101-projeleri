@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P33GLxOfaEzRauQq+4YVLofQDqzuNMEDQOEfkXKRjeLx7Wpp1fJqbhyU1nwGPbKVmEOFEprIzzXRIAuJpOgxVw==",
+  "dgSpecHash": "pIFbNOEqUpfMxJJoiPqnzXPRtG2UhJrkAu9Uvq4rB5xRtq0Geh+beGQSc5vinliLEhRBUdDTYqKbGgZhV/K61w==",
   "success": true,
-  "projectFilePath": "/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/VotingApp/VotingApp.csproj",
+  "projectFilePath": "/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/CSharpProjeleri/ZorSeviye/VotingApp/VotingApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
