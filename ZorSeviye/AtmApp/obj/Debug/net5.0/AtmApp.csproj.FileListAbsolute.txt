@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/bin/Debug/net5.0/AtmApp.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/bin/Debug/net5.0/AtmApp.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/bin/Debug/net5.0/AtmApp.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/bin/Debug/net5.0/AtmApp.dll
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/bin/Debug/net5.0/ref/AtmApp.dll
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/bin/Debug/net5.0/AtmApp.pdb
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/obj/Debug/net5.0/AtmApp.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/obj/Debug/net5.0/AtmApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/obj/Debug/net5.0/AtmApp.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/obj/Debug/net5.0/AtmApp.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/obj/Debug/net5.0/AtmApp.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/obj/Debug/net5.0/AtmApp.dll
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/obj/Debug/net5.0/ref/AtmApp.dll
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/obj/Debug/net5.0/AtmApp.pdb
+/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/AtmApp/obj/Debug/net5.0/AtmApp.genruntimeconfig.cache
