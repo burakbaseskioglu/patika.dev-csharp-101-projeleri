@@ -21,7 +21,7 @@ namespace AtmApp
                         CustomerManager.Deposit();
                         break;
                     case 3:
-                        CustomerManager.BalanceViewing();
+                        CustomerManager.GetBalance();
                         break;
                     case 4:
                         break;
@@ -31,10 +31,17 @@ namespace AtmApp
                 }
             } while (choice >= 1 && choice < 4);
 
-            var TransactionList = TransactionHistory.Transactions;
-            foreach (var item in TransactionList)
+            foreach (var item in TransactionHistory.Transactions)
             {
-                Console.WriteLine($"İşlem Sahibi:{item.Owner}\nTarih:{item.DateTime}\nİşlem Tipi:{item.OperationType}\nMiktar:{item.Amount}");
+                if (item.Amount == 0)
+                {
+                    Console.WriteLine($"İşlem Zamanı:{item.DateTime}\nİşlem Sahibi:{item.Owner}\nİşlem Tipi:{item.OperationType}\n");
+                }
+                else
+                {
+                    Console.WriteLine($"İşlem Zamanı:{item.DateTime}\nİşlem Sahibi:{item.Owner}\nİşlem Miktarı:{item.Amount}\nİşlem Tipi:{item.OperationType}\n");
+                }
+
             }
         }
 

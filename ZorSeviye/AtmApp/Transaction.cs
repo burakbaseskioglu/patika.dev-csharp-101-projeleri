@@ -9,6 +9,19 @@ namespace AtmApp
             this.DateTime = DateTime.Now;
         }
 
+        public Transaction(Operation operationType)
+        {
+            this.DateTime = DateTime.Now;
+            this.OperationType = operationType;
+        }
+
+        public Transaction(string owner, Operation operationType)
+        {
+            this.DateTime = DateTime.Now;
+            this.Owner = owner;
+            this.OperationType = operationType;
+        }
+
         public DateTime DateTime { get; private set; }
         public string Owner { get; set; }
         public double Amount { get; set; }
@@ -18,7 +31,8 @@ namespace AtmApp
     public enum Operation
     {
         HataliGiris = 1,
-        ParaYatirma = 2,
-        ParaCekme = 3
+        BasariliGiris = 2,
+        ParaYatirma = 3,
+        ParaCekme = 4
     }
 }

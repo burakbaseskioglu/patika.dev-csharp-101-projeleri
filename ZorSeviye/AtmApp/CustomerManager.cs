@@ -5,7 +5,6 @@ namespace AtmApp
 {
     public static class CustomerManager
     {
-
         public static Customer Login()
         {
             short customerPassword = 0;
@@ -18,9 +17,11 @@ namespace AtmApp
                 customer = CustomerDataSource.CustomerList.Find(x => x.Password == customerPassword);
                 if (customer != null)
                 {
+                    TransactionHistory.Transactions.Add(new Transaction(customer.FullName, Operation.BasariliGiris));
                     return customer;
                 }
                 Console.WriteLine("Şifreniz hatalı");
+                TransactionHistory.Transactions.Add(new Transaction(Operation.HataliGiris));
             } while (customer == null);
 
             return null;
@@ -32,8 +33,11 @@ namespace AtmApp
             if (customer != null)
             {
                 Console.WriteLine($"Hoşgeldiniz {customer.FullName}");
-                Console.Write("Çekme istediğiniz miktar:");
+                Console.Write("Çekmek istediğiniz miktar:");
                 double amount = double.Parse(Console.ReadLine());
+
+                Console.WriteLine("Çekmek istediğiniz miktar {0:C}", amount);
+                bool result = ConfirmMenu();
 
                 if (amount > customer.Balance)
                 {
@@ -41,16 +45,30 @@ namespace AtmApp
                 }
                 else
                 {
-                    customer.Balance -= amount;
-                    Console.WriteLine("Yeni bakiyeniz {0:C}", customer.Balance);
-
-                    TransactionHistory.Transactions.Add(
-                        new Transaction
-                        {
-                            Owner = customer.FullName,
-                            Amount = amount,
-                            OperationType = Operation.ParaCekme
-                        });
+                    if (result == true)
+                    {
+                        customer.Balance -= amount;
+                        Console.WriteLine();
+                        Console.WriteLine("*************************");
+                        Console.WriteLine("Yeni bakiyeniz {0:C}", customer.Balance);
+                        Console.WriteLine("*************************");
+                        Console.WriteLine();
+                        TransactionHistory.Transactions.Add(
+                            new Transaction
+                            {
+                                Owner = customer.FullName,
+                                Amount = amount,
+                                OperationType = Operation.ParaCekme
+                            });
+                    }
+                    else
+                    {
+                        Console.WriteLine();
+                        Console.WriteLine("*********************************");
+                        Console.WriteLine("Para çekme işlemi iptal edildi.");
+                        Console.WriteLine("*********************************");
+                        Console.WriteLine();
+                    }
                 }
             }
         }
@@ -106,7 +124,7 @@ namespace AtmApp
             }
         }
 
-        public static void BalanceViewing()
+        public static void GetBalance()
         {
             Console.WriteLine();
             Console.WriteLine("**********************************");
