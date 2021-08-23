@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace AtmApp
 {
@@ -6,7 +7,6 @@ namespace AtmApp
     {
         static void Main(string[] args)
         {
-
             int choice = 0;
             do
             {
@@ -31,11 +31,12 @@ namespace AtmApp
                 }
             } while (choice >= 1 && choice < 4);
 
-            var TransactionList = TransactionHistory.Transactions;
-            foreach (var item in TransactionList)
-            {
-                Console.WriteLine($"İşlem Sahibi:{item.Owner}\nTarih:{item.DateTime}\nİşlem Tipi:{item.OperationType}\nMiktar:{item.Amount}");
-            }
+            // var TransactionList = TransactionHistory.Transactions;
+            // foreach (var item in TransactionList)
+            // {
+            //     Console.WriteLine($"İşlem Sahibi:{item.Owner}\nTarih:{item.DateTime}\nİşlem Tipi:{item.OperationType}\nMiktar:{item.Amount}");
+            // }
+            FileLogger.WriteFile();
         }
 
         static void MenuList()

@@ -5,7 +5,6 @@ namespace AtmApp
 {
     public static class CustomerManager
     {
-
         public static Customer Login()
         {
             short customerPassword = 0;
