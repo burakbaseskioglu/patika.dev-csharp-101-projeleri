@@ -12,9 +12,6 @@ namespace AtmApp
             {
                 FileStream fileStream = new FileStream(filePath, FileMode.Create);
             }
-            // string currentDirectory = Directory.GetCurrentDirectory();
-            // string fullPath = currentDirectory + $"/EOD_{DateTime.Now.ToShortDateString()}";
-            // FileStream fileStream = new FileStream(fullPath, FileMode.Create);
         }
 
         public static string CreateFilePath()
