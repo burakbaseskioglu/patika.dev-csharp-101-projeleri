@@ -30,19 +30,6 @@ namespace AtmApp
                         break;
                 }
             } while (choice >= 1 && choice < 4);
-
-            foreach (var item in TransactionHistory.Transactions)
-            {
-                if (item.Amount == 0)
-                {
-                    Console.WriteLine($"İşlem Zamanı:{item.DateTime}\nİşlem Sahibi:{item.Owner}\nİşlem Tipi:{item.OperationType}\n");
-                }
-                else
-                {
-                    Console.WriteLine($"İşlem Zamanı:{item.DateTime}\nİşlem Sahibi:{item.Owner}\nİşlem Miktarı:{item.Amount}\nİşlem Tipi:{item.OperationType}\n");
-                }
-
-            }
         }
 
         static void MenuList()
