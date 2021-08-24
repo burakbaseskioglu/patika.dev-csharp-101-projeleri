@@ -31,11 +31,6 @@ namespace AtmApp
                 }
             } while (choice >= 1 && choice < 4);
 
-            // var TransactionList = TransactionHistory.Transactions;
-            // foreach (var item in TransactionList)
-            // {
-            //     Console.WriteLine($"İşlem Sahibi:{item.Owner}\nTarih:{item.DateTime}\nİşlem Tipi:{item.OperationType}\nMiktar:{item.Amount}");
-            // }
             FileLogger.WriteFile();
         }
 
