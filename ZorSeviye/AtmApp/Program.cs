@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace AtmApp
 {
@@ -6,7 +7,6 @@ namespace AtmApp
     {
         static void Main(string[] args)
         {
-
             int choice = 0;
             do
             {
@@ -30,6 +30,8 @@ namespace AtmApp
                         break;
                 }
             } while (choice >= 1 && choice < 4);
+
+            FileLogger.WriteFile();
         }
 
         static void MenuList()
