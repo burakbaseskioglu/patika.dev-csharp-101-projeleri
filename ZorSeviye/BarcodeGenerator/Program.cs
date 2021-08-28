@@ -44,21 +44,33 @@ namespace BarcodeGenerator
 
             if (result != null)
             {
-                Console.WriteLine(result.Text);
+
+                Console.WriteLine($"Barkod üzerinde bulunan kod = {result.Text}");
             }
+        }
+
+        static string SetBarcodeLocation()
+        {
+            string extension = ".png";
+
+            Console.WriteLine("Dosya ismi giriniz:");
+            string fileName = Console.ReadLine();
+
+            string filePath = SelectFile();
+            string fullPath = filePath + "/" + fileName + extension;
+            return fullPath;
         }
 
         static void BarcodeWriter()
         {
+            Console.WriteLine("Barkod içeriği giriniz:");
+            string content = Console.ReadLine();
+
+            string fullPath = SetBarcodeLocation();
+
             BarcodeWriter writer = new BarcodeWriter();
             writer.Format = BarcodeFormat.QR_CODE;
-            writer.Write("https://www.google.com/").Save("/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/BarcodeGenerator/image/yeni2.png");
-        }
-
-        static void Save(Bitmap bitmapSource)
-        {
-            // Image dummy = Image.FromFile("/Users/burakbaseskioglu/Documents/VSCode/patika.dev-csharp-101-projeleri/ZorSeviye/BarcodeGenerator/image/myqrcode.png");
-            // dummy.Save("myqrcode.bmp", System.Drawing.Imaging.ImageFormat.Bmp);
+            writer.Write(content).Save(fullPath);
         }
     }
 }
